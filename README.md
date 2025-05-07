@@ -21,24 +21,6 @@ A full-stack Task Management web application built using the MERN stack (MongoDB
 - **Database**: MongoDB (Mongoose)
 - **Authentication**: JWT (JSON Web Token)
 
----
-## 📁 Project Structure
-
-TASK_MANAGEMENT_MERN/
-├── client/ # React frontend
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ └── App.js
-├── server/ # Express backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── index.js
-├── .env
-└── README.md
----
 
 ## 🔧 Setup Instructions
 
